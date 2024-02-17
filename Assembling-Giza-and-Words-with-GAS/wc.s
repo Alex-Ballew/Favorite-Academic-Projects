@@ -4,6 +4,7 @@
 main:                                   # This is called by C library's startup code
         mov     $0, %r15d  # tracker
         mov     $-1, %r12d   # check for end of file
+        mov     $1, %r15d
         
 main_loop: #loop through file
 
