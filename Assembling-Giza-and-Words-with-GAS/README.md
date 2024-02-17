@@ -1,6 +1,6 @@
 # Assembling Giza and Words with GAS
 
-This project contains two simple programs, giza.s which takes a single command line argument, the number of lines of a pyramid to print, constructed of "*" and prints out Finito at the end. The other program is wc.s which takes no arguments, it read from standard input until it sees the end of the file. It counts the number of words in the input stream and prints "Result=x", where x is the number of words counted.
+This project contains two simple programs, giza.s which takes a single command line argument, the number of lines of a pyramid to print constructed of "*" and prints out Finito at the end. The other program is wc.s which takes no arguments, it read from standard input until it sees the end of the file. It counts the number of words in the input stream and prints "Result=x", where x is the number of words counted.
 
 ## How to run:
 
